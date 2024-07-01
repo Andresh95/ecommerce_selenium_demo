@@ -39,10 +39,10 @@ Jenkins es un servidor open source para la integración continua. Es una herrami
 
 Para ejecutar las pruebas desde este repositorio:
 
-1. Clona el repositorio en tu máquina local:
+1. Clonar el repositorio en tu máquina local:
    ```bash
    https://github.com/Andresh95/ecommerce_selenium_demo.git
-2. Asegúrate de tener Maven instalado y configurado en tu sistema.
+2. Tener Maven instalado y configurado en tu sistema.
 
 3. Ejecuta las pruebas con Maven:
    ```bash
